@@ -2,7 +2,7 @@
 
 此repo记录了我学习JavaSE基础（狂神说系列）的笔记和代码：
 
-- [个人学习笔记](https://github.com/Zidiefeng/JavaSE_study/blob/master/docs/content.md)
+- [个人学习笔记](https://github.com/Zidiefeng/JavaSE_study/tree/master/docs)
 - [code](https://github.com/Zidiefeng/JavaSE_study/tree/master/src/com/kaitan)
 
 ---
