@@ -1,11 +1,5 @@
-# 【狂】Java基础-notes
+# JavaSE 基础 - 学习笔记
 
-Created: Dec 27, 2020 1:57 AM
-修改时间: Dec 27, 2020 2:33 AM
-完成: Yes
-打卡: https://www.notion.so/e1d71e6aa900448fb652c2e64aea530b, https://www.notion.so/java-P1-P8-d21bd533ec9446e6b23eccc416556736, https://www.notion.so/Java-p5-p8-b02802b8e5014584bfed2b3290675d30, https://www.notion.so/Java-8e8434025cea4e26b764d94d6bb83e2c
-来源: 狂神说
-概述: 8周任务量
 
 P1-79/80 (第 80 需要学完 其他 第一阶段课程之后 再看)
 
